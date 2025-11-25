@@ -1,0 +1,32 @@
+{
+  "kvs": {
+    "salt": "f2IydUJgl7HcqoVykN195w==",
+    "data": {
+      "pRmalfdwG/dG0Jsvlu5qnP+kXqftSVcIWxNT8TzfhAI=": {
+        "iv": "TTZA7HopKCUJxjsE",
+        "cipherText": "seAR9ZfbFNWi5bVZFnr9tZlT69CZWFk="
+      },
+      "www.gmail.com": {
+        "iv": "sCnzWnNKZJrVWBx+",
+        "cipherText": "HCnxcPPmzeg5jPVpCwjWIpWVAyZpdA=="
+      },
+      "www.nick.com": {
+        "iv": "/BBV1PazlV91IOrf",
+        "cipherText": "EooyVvGXYd9H53ggIcw+9eq1UOLSFg=="
+      },
+      "www.nock.com": {
+        "iv": "es6G3cAJKCbOTC0H",
+        "cipherText": "CGa3IusaN06Ob/Nnjovu3DRGIGTG"
+      },
+      "www.zombie.com": {
+        "iv": "7BpXSdEuJQTI87BL",
+        "cipherText": "ntkeTMxDwO+WjyvvRzy1uMZbNRG9kw=="
+      },
+      "www.456.com": {
+        "iv": "e1c3YoXspOtfuHy4",
+        "cipherText": "+vtWRGY9dt12mp3zJfVU24+isoBcbw=="
+      }
+    },
+    "hmac": "QUKGT67GIJ3QCUK/3ywQpsvm/0vZkzERntK5Zwi2ljk="
+  }
+}

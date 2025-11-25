@@ -1,0 +1,12 @@
+{
+  "kvs": {
+    "salt": "xXOmJcLgL/VdWmFXbqCXmw==",
+    "data": {
+      "www.bob.com": {
+        "iv": "L7gAUVRX28ybnrc0",
+        "cipherText": "ipndZSCJyhe7Md/twXCmcv2nGKA+Dw=="
+      }
+    },
+    "hmac": "EGP32iu1Q5ORKX/DqM+0r3Kg8KHvWuPEs6SdNWxQpoQ="
+  }
+}
